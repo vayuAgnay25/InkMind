@@ -21,6 +21,7 @@ function decryption(input) {
 }
 
 const links = [
+  "/",
   "dashboard",
   "entries",
   "gallery",
